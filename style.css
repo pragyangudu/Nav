@@ -1,0 +1,14 @@
+.navbar-brand{
+    position: absolute;
+    left: 7%;
+}
+.form-control{
+    position: relative;
+    margin-left: 70vw;
+    
+}.user{
+    border-radius: 12%;
+}
+.bg-dark{
+    color: white;
+}
